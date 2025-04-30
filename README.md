@@ -1,4 +1,5 @@
-Super Event Ticketing System
+**Super Event Ticketing System**
+
 A Java-based console application for managing event ticket bookings, built with a strong focus on Object-Oriented Programming (OOP) principles. This project was developed as part of the Further Programming 1 course at RMIT University.
 
 📦 Features
